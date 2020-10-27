@@ -1,5 +1,3 @@
-# my 1st python program in the arcade course
-
 print("\nHello World !\n------------")
 
 print("""This is a long 
